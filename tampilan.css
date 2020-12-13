@@ -1,0 +1,85 @@
+/* background-image : url("image/background.jpg"); */
+body{
+	background-image: url('images/background.jpg');
+	background-repeat: repeat;
+	color: #696969;
+}
+div {
+	width: 300px;
+	height: 75px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+.gambar{
+	width: 650px;
+	float: left;
+	margin-right: 10px;
+}
+.tengah{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.container{
+    background-image: url("images/background.jpeg");
+  }
+  body {
+    background-image: url('images/background.jpeg');
+	background-repeat: repeat;
+	color: #696969;
+  }
+  #main{
+      width: 300px;
+      margin: 0 auto;
+      padding-top: 40px;
+      padding-bottom: 10px;
+      padding-right: 10px;
+      background-color: rgba(255,255,255,0.2);
+      border-radius: 6px;
+      -moz-border-radius: 6px;
+      -webkit-border-radius: 6px;
+      margin-top: 150px;
+  }
+  img{
+      border : 2px darkgrey solid;
+      height: 70px;
+      width: 70px;
+      border-radius: 50px;
+      margin-left: 110px;
+      position: absolute;
+      margin-top: -70px;
+      background-color: darkgrey;
+  }
+  h1{
+      font-family: verdana;
+      color: black;
+      text-align: center;
+      font-size: 20px;
+      margin-top: 20px;
+      padding: 10px;
+  }
+  
+  
+  form input{
+      margin: 5px;
+      padding: 5px;
+      border: 2px gold solid;
+      border-radius: 17px;
+      width : 200px;
+      margin-left: 40px;
+  }
+  
+  form button{
+      margin: 5px;
+      padding: 5px;
+      background-color: #ff7700;
+      border : 1px #ffbf00 solid;
+      border-radius : 12px;
+      width: 100px;
+      height: 40px;
+      color: white;
+      margin-left: 100px;
+      cursor: pointer;
+      
+  }
